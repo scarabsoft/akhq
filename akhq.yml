@@ -1,0 +1,6 @@
+akhq:
+  connections:
+    dev:
+      key: chainsight
+      properties:
+        bootstrap.servers: "http://kafka:9092"
